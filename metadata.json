@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Visual Generator",
+  "description": "An interactive wizard to generate visual prompts and source contexts by combining script content, visual templates, and themes.",
+  "requestFramePermissions": []
+}
